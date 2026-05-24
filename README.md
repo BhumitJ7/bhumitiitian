@@ -1,13 +1,41 @@
-- 👋 Hi, I’m BHUMIT VASAVA
-- 
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bhumitvasava7890@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+# 👋 Hi, I'm Bhumit Vasava
 
-<!---
-bhumitiitian/bhumitiitian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Mathematics & Computing student at IIT Bhilai  
+📊 Aspiring Data Analyst passionate about turning data into meaningful insights  
+
+## 🚀 Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas & NumPy
+- Data Cleaning & EDA
+- Data Visualization
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Data Analytics Projects
+- Dashboard Development
+
+## 📈 Projects
+- Sales Data Analysis Dashboard using Power BI & Excel
+- Exploratory Data Analysis using Python
+- SQL Database Management System Project
+
+## 💡 Interests
+- Data Analytics
+- Business Intelligence
+- Visualization
+- Problem Solving
+
+## 🤝 Looking to Collaborate On
+- Data Analytics Projects
+- SQL/Python Projects
+- Open Source Beginner Projects
+
+## 📫 Connect With Me
+- Email: bhumitvasava7890@gmail.com
+- LinkedIn: www.linkedin.com/in/bhumit-vasava-420102301
+
+## ⚡ Fun Fact
+I enjoy finding patterns in data and solving analytical problems.
