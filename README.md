@@ -34,7 +34,6 @@ Data enthusiast & MSc Mathematics and Computing student at **IIT Bhilai**, passi
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-440154?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -61,26 +60,27 @@ Data enthusiast & MSc Mathematics and Computing student at **IIT Bhilai**, passi
 
 | Project | Tools | Description |
 |---|---|---|
-| 📊 Sales Data Analysis Dashboard | Power BI, Excel | Interactive dashboard to track sales trends, revenue patterns, and key performance indicators |
-| 🔍 Exploratory Data Analysis | Python, Pandas, Matplotlib | Comprehensive EDA on real-world datasets to uncover patterns, correlations, and actionable insights |
-| 🗄️ SQL Database Management | SQL | Relational database design, normalization, and advanced query optimization projects |
-| 📈 Data Visualization Portfolio | Tableau, Power BI | Collection of interactive visualizations showcasing data storytelling and business insights |
+| [📊 Power BI Sales Dashboard](https://github.com/BhumitJ7/PowerBI-Sales-Dashboard) | Power BI, DAX, Power Query | Interactive dashboard tracking sales trends, revenue, and product-level KPIs |
+| [🔍 Stock Market EDA](https://github.com/BhumitJ7/stock-market-eda) | Python, Pandas, Matplotlib, Seaborn | Exploratory data analysis on stock & ETF data, uncovering distribution patterns across exchanges |
+| [🗄️ Stock Market SQL Analysis](https://github.com/BhumitJ7/-stock-market-sql-analysis) | SQL | Queries analyzing pricing trends, trading volumes, and exchange-level patterns |
+| [📈 Stock Market Power BI Dashboard](https://github.com/BhumitJ7/stock-market-powerbi) | Power BI | Interactive dashboard visualizing stock market trends with dynamic filtering |
 
 ---
 
 ### 💡 Key Competencies
 
-- **Data Analysis**: Statistical Analysis, Data Cleaning, Data Wrangling
+- **Data Analysis**: Statistical Analysis, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA)
 - **Visualization**: Dashboard Creation, Report Design, Data Storytelling
 - **Business Intelligence**: KPI Tracking, Performance Metrics, Business Analytics
 - **Database Management**: SQL Queries, Database Design, Query Optimization
-- **Tools Proficiency**: Python, Power BI, Tableau, Excel, SQL
+- **Tools Proficiency**: Python, Power BI, Excel, SQL
 
 ---
 
 ### 🎓 Education & Learning
 
 - **MSc Mathematics & Computing** - IIT Bhilai (In Progress)
+- **BSc** - The Maharaja Sayajirao University of Baroda
 - **Currently Learning**: Advanced SQL, Dashboard Development, Machine Learning Basics
 - **Interests**: Data-Driven Decision Making, Business Analytics, Statistical Modeling
 
@@ -89,7 +89,7 @@ Data enthusiast & MSc Mathematics and Computing student at **IIT Bhilai**, passi
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhumit-vasava-420102301">
+  <a href="https://www.linkedin.com/in/bhumitvasava-420102301">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bhumitvasava7890@gmail.com">
