@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-Data enthusiast & MSc Mathematics and Computing student at **IIT Bhilai**, passionate about turning raw data into clear, actionable insights — finding the story hidden inside numbers.
+Data enthusiast & recent MSc Mathematics and Computing graduate from IIT Bhilai (2026), passionate about turning raw data into clear, actionable insights — finding the story hidden inside numbers.
 
 - 🎓 **MSc Mathematics & Computing** — IIT Bhilai
 - 📊 Focused on **Data Analytics**, **Visualization**, and **Business Intelligence**
