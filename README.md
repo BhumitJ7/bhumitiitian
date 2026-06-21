@@ -8,12 +8,13 @@
 
 ### 👋 About Me
 
-Data enthusiast & recent MSc Mathematics and Computing graduate from IIT Bhilai (2026), passionate about turning raw data into clear, actionable insights — finding the story hidden inside numbers.
+Data enthusiast & recent **MSc Mathematics and Computing graduate from IIT Bhilai (2026)**, passionate about turning raw data into clear, actionable insights — finding the story hidden inside numbers.
 
-- 🎓 **MSc Mathematics & Computing** — IIT Bhilai
+- 🎓 **MSc Mathematics & Computing** — IIT Bhilai (Graduated 2026)
 - 📊 Focused on **Data Analytics**, **Visualization**, and **Business Intelligence**
 - 🐍 Working with **Python**, **SQL**, and **Power BI**
-- 🌱 Currently learning **Advanced SQL** and **Dashboard Development**
+- 🌱 Currently sharpening **Advanced SQL** and **Dashboard Development** skills
+- 💼 **Actively seeking full-time Data Analyst / BI Analyst opportunities**
 - 🤝 Open to collaborating on data analytics & open source projects
 - 📬 Reach me at: [bhumitvasava7890@gmail.com](mailto:bhumitvasava7890@gmail.com)
 
@@ -79,9 +80,9 @@ Data enthusiast & recent MSc Mathematics and Computing graduate from IIT Bhilai 
 
 ### 🎓 Education & Learning
 
-- **MSc Mathematics & Computing** - IIT Bhilai (In Progress)
+- **MSc Mathematics & Computing** - IIT Bhilai (Graduated 2026)
 - **BSc** - The Maharaja Sayajirao University of Baroda
-- **Currently Learning**: Advanced SQL, Dashboard Development, Machine Learning Basics
+- **Currently Sharpening**: Advanced SQL, Dashboard Development, Machine Learning Basics
 - **Interests**: Data-Driven Decision Making, Business Analytics, Statistical Modeling
 
 ---
